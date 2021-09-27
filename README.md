@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **napahde21@gmail.com**
 
-- ⚡ Fun fact **Time is not scalable.**
+- ⚡ Fun fact **Do not communicate by sharing memory; instead, share memory by communicating.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

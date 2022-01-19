@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Databases, Backend Web Development**
 
-- 📫 How to reach me **napahde21@gmail.com**
+- 📫 How to reach me **naphade21@gmail.com**
 
 - ⚡ Fun fact **Do not communicate by sharing memory; instead, share memory by communicating.**
 

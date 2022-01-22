@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Algorithms Visualizer](https://github.com/atharvanaphade/Algorithms-Visualizer)
 
-- 🌱 I’m currently learning **Spring Boot, GUI Development, Blockchain**
+- 🌱 I’m currently learning **PyTorch, SciKitLearn, Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [https://atharvanaphade.me/](https://atharvanaphade.me/)
 

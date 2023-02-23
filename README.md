@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PyTorch, SciKitLearn, Reinforcement Learning**
 
-- 👨‍💻 All of my projects are available at [https://atharvanaphade.me/](https://atharvanaphade.me/)
+- 👨‍💻 All of my projects are available at [https://atharvanaphade.me/](https://atharvanaphade.ml/)
 
 - 💬 Ask me about **Databases, Backend Web Development**
 
